@@ -1,7 +1,5 @@
 XYZ file
-<<<<<<< HEAD
+
 Git2 changes
-=======
 
 Git1 chanages
->>>>>>> cf24854a85e4327dd1b559c22de0c7cd677a859a
